@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Hirak Mondal
-#### I'm a Data Analytics
-![I'm a Data Analytics](https://drive.google.com/file/d/1R5kZWNUTJszthOzps7r84AobNQDuGjiO/view?usp=drivesdk)
+### I'm a Student 
+
+(https://drive.google.com/file/d/1R5kZWNUTJszthOzps7r84AobNQDuGjiO/view?usp=drivesdk)
 
 
 
