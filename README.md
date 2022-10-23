@@ -1,6 +1,6 @@
 ![MasterHead](https://scontent.fjsr16-1.fna.fbcdn.net/v/t39.30808-6/312098564_105121762396519_7370535796695616700_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF9JFn8Yu8tTt7wV2Abs4T1lIej7DDhFI2Uh6PsMOEUjWbrSjEC9-ty0WZJU8sRx_pGOpYPO6fzPtrXJ5xmZL64&_nc_ohc=M3DbYa6znCQAX-q7pmw&_nc_zt=23&_nc_ht=scontent.fjsr16-1.fna&oh=00_AT_R2J_6zMCTONhWudpxmsHdXzSoqJBuf7n2roBtRbpkUQ&oe=635A1CF2)
 <h1 align="center">Hi 👋, I'm Hirak Mondal</h1>
-<h3 align="center">I am now learning NPL</h3>
+<h3 align="center">I am now learning NLP</h3>
 
 <p align="left"> <a href="https://twitter.com/hirak_46" target="blank"><img src="https://img.shields.io/twitter/follow/hirak_46?logo=twitter&style=for-the-badge" alt="hirak_46" /></a> </p>
 
