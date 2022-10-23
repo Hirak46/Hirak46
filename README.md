@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen)]
+[![MasterHead](https://drive.google.com/drive/u/1/my-drive)]
 <h1 align="center">Hi 👋, I'm Hirak Mondal</h1>
 <h3 align="center">I am now learning NPL</h3>
 
