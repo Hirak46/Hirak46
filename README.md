@@ -1,8 +1,8 @@
-### Hi there 👋, Hi 👋, I'm Hirak Mondal
+### Hi 👋, I'm Hirak Mondal
 #### I'm a Data Analytics
-![I'm a Data Analytics](https://www.facebook.com/photo/?fbid=1223774748132645&set=pob.100015003931800)
+![I'm a Data Analytics](https://drive.google.com/file/d/1R5kZWNUTJszthOzps7r84AobNQDuGjiO/view?usp=drivesdk)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
 
 Skills: "C" C#" C++" JAVA" Python
 
