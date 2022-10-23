@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/drive/u/1/my-drive)]
+[![MasterHead](https://drive.google.com/drive/u/1/my-drive)
 <h1 align="center">Hi 👋, I'm Hirak Mondal</h1>
 <h3 align="center">I am now learning NPL</h3>
 
