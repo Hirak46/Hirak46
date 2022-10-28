@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1EEl0Fmhc_6aBio0cGeLl0zP5xoEi8ao8/view)
+![MasterHead](https://pbs.twimg.com/profile_images/1486117560227889152/lm6D-AzP_400x400.jpg)
 <h1 align="center">Hi 👋, I'm Hirak Mondal</h1>
 <h3 align="center">I am now learning NLP</h3>
 
