@@ -1,12 +1,12 @@
 ![MasterHead](https://pbs.twimg.com/profile_images/1486117560227889152/lm6D-AzP_400x400.jpg)
 <h1 align="center">Hi 👋, I'm Hirak Mondal</h1>
-<h3 align="center">I am now learning NLP</h3>
+<h3 align="center">I am now learning Machine Learning</h3>
 
 <p align="left"> <a href="https://twitter.com/hirak_46" target="blank"><img src="https://img.shields.io/twitter/follow/hirak_46?logo=twitter&style=for-the-badge" alt="hirak_46" /></a> </p>
 
 - 🔭 I’m currently working on **AI**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **C,C#,C++,Python**
 
