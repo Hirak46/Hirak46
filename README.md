@@ -1,4 +1,4 @@
-![MasterHead]()
+
 <h1 align="center">Hi 👋, I'm Hirak Mondal</h1>
 <h3 align="center">I am now learning Machine Learning</h3>
 
