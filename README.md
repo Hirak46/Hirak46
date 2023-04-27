@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/profile_images/1486117560227889152/lm6D-AzP_400x400.jpg)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Hirak Mondal</h1>
 <h3 align="center">I am now learning Machine Learning</h3>
 
