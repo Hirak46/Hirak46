@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Hirak Mondal</h1>
-<h3 align="center">I am now learning Machine Learning</h3>
+<h3 align="center">I am now learning AI</h3>
 
 <p align="left"> <a href="https://twitter.com/hirak_46" target="blank"><img src="https://img.shields.io/twitter/follow/hirak_46?logo=twitter&style=for-the-badge" alt="hirak_46" /></a> </p>
 
-- 🔭 I’m currently working on **AI**
+- 🔭 I’m currently working on **Image Processing using Deep Learning Algorithm**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **C,C#,C++,Python**
 
